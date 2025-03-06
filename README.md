@@ -1,5 +1,5 @@
 # GIAIC AI-101 PROJECTS
-📌#  My Python Projects
+📌## My Python Projects
 This repository contains multiple Python projects, from fun text-based games to interactive web applications built with Streamlit. Each project is designed to enhance Python skills and explore various programming concepts. 🚀
 
 #🎭 1. Mad Libs Generator (https://colab.research.google.com/drive/1nOtvk1CiXAjjjV65boQrsS_akGhj4OZF?usp=sharing)
