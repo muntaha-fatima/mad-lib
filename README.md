@@ -11,7 +11,6 @@ Description: The computer randomly selects a number, and the user has to guess i
 # 🔢  3. Guess the Number Game (User)(https://colab.research.google.com/drive/1zxdwpaB3uiAbNUC2OypN1i1ooH_bb1xb)
 Description: The user thinks of a number, and the computer tries to guess it.
 
-
 # ✊✋✌️  4. Rock, Paper, Scissors Game(https://colab.research.google.com/drive/1ggO2yTi0gdEuU9XYS6IREPIq-KzkwVRD)
 Description: A command-line game where users play against the computer.
 
@@ -30,9 +29,5 @@ Description: A web app that calculates Body Mass Index (BMI) based on user input
 #  🌐 9. Build a Python Website in 15 Minutes (Streamlit)(https://colab.research.google.com/drive/1BakO6P8Vmrgx6Fs0SiCfkLjHWFROFxRF)
 Description: A simple web application demonstrating how to create a website using Streamlit.
 
-
-#  🤖 10. GAIC AI-101 Project
-Description: A special project built under GIAIC AI-101, showcasing AI-based implementation.
-
 #  🎉 This assignment was given by Sir Zia.
-Each project in this repository is a step forward in mastering Python and building interactive applications. Feel free to explore, modify, and enhance them! 😊✨
+A special project built under GIAIC AI-101, showcasing AI-based implementation. Each project in this repository is a step forward in mastering Python and building interactive applications. Feel free to explore, modify, and enhance them! 😊✨
